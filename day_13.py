@@ -1,0 +1,1 @@
+lines = open('input13.txt').read().split('\n')
